@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Coctails</title>
+    <link rel="stylesheet" href="./sass/index.scss" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&family=Roboto:wght@400;700;900&display=swap"
+        rel="stylesheet" />
+</head>
+
+<body>
+  <include src="./partials/header.html"></include>
+    <section class="favorite-ingredients-section">
+  <h2 class="favorite-ingredients-section__title favorite-coctalis-js">Favorite ingredients</h2>
+  <div class="favorite-ingredients-section__box">
+    <ul class="favorite-ingredients-section__ingredients-list"></ul>
+    <div class ="coctails-section__ingredient-modal-backdrop coctails-section__ingredient-modal-backdrop--is-hidden" >
+      <div
+      class="coctails-section__ingredient-modal coctails-section__ingredient-modal--is-hidden"
+    >
+  </div>
+    </div>
+  <div class="empty-footer"></div>
+</section>
+    <!-- JS -->
+    <script type="module" src="./js/menu-button.js"></script>
+    <script type="module" src="./js/favorite-ingredients.js"></script>
+   
+  </body>
+</html>
