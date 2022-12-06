@@ -2,10 +2,10 @@
   "name": "coctails",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Zhe1a.github.io/Coctails",
+  "homepage": "https://github.com/Zhe1a/coctails",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Coctails/"
+    "build": "parcel build src/*.html --public-url /Cnpm octails/"
   },
   "repository": {
     "type": "git",
