@@ -5,7 +5,7 @@
   "homepage": "https://Zhe1a.github.io/Coctails",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Team5-Coctails/"
+    "build": "parcel build src/*.html --public-url /Coctails/"
   },
   "repository": {
     "type": "git",
