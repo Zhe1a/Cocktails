@@ -5,11 +5,11 @@
   "homepage": "https://github.com/Zhe1a/Cocktails",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /coctails/"
+    "build": "parcel build src/*.html --public-url /Cocktails/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Borduir/coctails.git"
+    "url": "git+https://github.com/Borduir/Cocktails.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
