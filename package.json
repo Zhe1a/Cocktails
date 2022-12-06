@@ -2,7 +2,7 @@
   "name": "coctails",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Zhe1a.github.com/coctails/",
+  "homepage": "https://github.com/Zhe1a/Cocktails",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /coctails/"
