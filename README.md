@@ -5,4 +5,5 @@ My part was the 'hero' section, where the rendering was implemented based on API
 
 ![Зауваження 2023-08-16 190609](https://github.com/Zhe1a/Cocktails/assets/108029808/3ece2f3d-c3f6-4e66-b69a-cb6d53aee6ce)
 ![Зауваження 2023-08-16 190549](https://github.com/Zhe1a/Cocktails/assets/108029808/da439fd5-88be-45ca-a7c9-bf6f76880e71)
-![Зауваження 2023-08-16 190508](https://github.com/Zhe1a/Cocktails/assets/108029808/03666fb7-f131-4542-86a4-f8cc60fdffcb)
+
+![Зауваження 2023-08-16 190508](https://github.com/Zhe1a/Cocktails/assets/108029808/6251e521-0945-4a91-8e7e-4f0f0f75f78b)
